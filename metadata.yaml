@@ -1,0 +1,32 @@
+_repo: The-making-of-a-man_68921
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Seavey, J. R.
+    gutenberg_agent_id: '55013'
+    url: http://www.gutenberg.org/2009/agents/55013
+creator:
+  author:
+    agent_name: Flatt, W. D.
+    gutenberg_agent_id: '55012'
+    url: http://www.gutenberg.org/2009/agents/55012
+description: ''
+gutenberg_issued: '2022-09-06'
+identifiers:
+  gutenberg: '68921'
+language: en
+pgterms:marc904: https://archive.org/details/makingofman0000flat
+pgterms:marc905: 20191221194122flatt
+pgterms:marc906: '1918'
+pgterms:marc907: CA
+production_note: MFR, David E. Brown, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: Canada :William Briggs,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The making of a man
+url: http://www.gutenberg.org/ebooks/68921
