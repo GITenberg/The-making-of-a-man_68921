@@ -5,12 +5,17 @@ contributor:
     agent_name: Seavey, J. R.
     gutenberg_agent_id: '55013'
     url: http://www.gutenberg.org/2009/agents/55013
+covers:
+- cover_type: archival
+  image_path: 68921-h/images/cover.jpg
 creator:
   author:
     agent_name: Flatt, W. D.
     gutenberg_agent_id: '55012'
     url: http://www.gutenberg.org/2009/agents/55012
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68921#The-making-of-a-man
 gutenberg_issued: '2022-09-06'
 identifiers:
   gutenberg: '68921'
